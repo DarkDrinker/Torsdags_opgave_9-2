@@ -3,6 +3,5 @@ int age=22;
 println("Hi, my name is", name);
 println("i am", age, "years old");
 boolean love=true;
-if (love==true){
+if (love==false)
 print("i", love, "clap my hands"); 
-}
