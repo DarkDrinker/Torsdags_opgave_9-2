@@ -1,0 +1,24 @@
+int input = 20;
+if(input >= 0){
+  for (int i = input; i>=0; --i){
+    if(i==6){
+      println("Six!");
+    }else{
+      println(i);
+     }
+    if(i==input/2){
+      println("half!");
+    }
+  }
+}else {
+    for (int i = input; i<=0; ++i){
+      if(i==input/2){
+        println("Half!");
+      } else {
+        println(i);
+      }
+    }
+}
+    
+    
+  
