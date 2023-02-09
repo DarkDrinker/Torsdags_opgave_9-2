@@ -1,0 +1,41 @@
+//task 4.a
+{
+  for (int x=1; x<=20; x +=1){
+    println(x);
+  }
+}
+
+//task 4.b
+{
+  for (int x=2; x<=20; x +=2){
+    println(x);
+  }
+}
+//task 4.c
+{
+  for (int start=20; start>=4; start -=1){
+    println(start);
+    } println("three");
+    println("two");
+    println("one");
+    println("Take Off!");
+}
+//task 4.d (opgave 4.b)
+{
+  int x=2;
+  while(x<20) {
+   x +=2;
+   println(x);
+  }
+}
+//task 4.d (opgave 4.c)
+{
+  int start=20;
+  while ( start>4){
+    start -=1;
+    println(start);
+    } println("three");
+    println("two");
+    println("one");
+    println("Take Off!");
+}
