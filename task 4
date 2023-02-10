@@ -16,9 +16,9 @@
   for (int start=20; start>=4; start -=1){
     println(start);
     } println("three");
-    println("two");
-    println("one");
-    println("Take Off!");
+      println("two");
+      println("one");
+      println("Take Off!");
 }
 //task 4.d (opgave 4.b)
 {
@@ -35,7 +35,7 @@
     start -=1;
     println(start);
     } println("three");
-    println("two");
-    println("one");
-    println("Take Off!");
+      println("two");
+      println("one");
+      println("Take Off!");
 }
