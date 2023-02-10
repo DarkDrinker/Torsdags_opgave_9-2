@@ -14,10 +14,8 @@ void methodOne()
   
   int max = 10;  
   
-  if (i > max)
-  
-  {
-    String output = "i is greater than "+max+".";   
+  if (i > max) {
+    String output = i = "is greater than "+max+".";   
       println(output);
   }
 
